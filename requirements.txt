@@ -1,6 +1,6 @@
-nltk
-torch 
-tqdm 
-wandb
-transformers==4.2.1
+nltk==3.8.1
+torch==2.0.1
+tqdm==4.66.1
+wandb==0.15.8
+transformers==4.27.1
 
